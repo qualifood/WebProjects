@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Project48 &amp; Project60" type="CompoundRunConfigurationType">
+    <toRun name="Project60" type="LaunchSettings" />
+    <toRun name="Project48 - IIS Express" type="DotNetProject" />
+    <method v="2" />
+  </configuration>
+</component>
